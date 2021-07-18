@@ -49,7 +49,7 @@ UserSchema.methods.toAuthJSON = function(){
     bio: this.bio,
     image: this.image,
     gh: this.gh,
-    sv: this.sv
+    сv: this.сv
   };
 };
 
